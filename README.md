@@ -1,5 +1,8 @@
 # Custom Segregated Heap Allocator Implementation
 
+![Custom Segregated Heap Allocator](./heap.png)
+
+
 Welcome to the Custom Segregated Heap Allocator project! In this endeavor, the primary objective is to craft a personalized segregated heap allocator that offers efficient memory allocation and deallocation strategies.
 
 ## Project Overview
